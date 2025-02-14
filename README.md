@@ -43,8 +43,8 @@ This project utilizes the Flickr8k dataset.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/imagesense-ai.git
-cd imagesense-ai
+git clone https://github.com/saileshdwivedy30/ImageSense-AI
+cd ImageSense-AI
 ```
 
 ### 2️⃣ Install Dependencies
