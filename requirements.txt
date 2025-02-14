@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+numpy
+pandas
+faiss-cpu
+opencv-python
+streamlit
+scikit-learn
+PILLOW

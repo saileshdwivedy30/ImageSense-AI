@@ -1,0 +1,25 @@
+# Virtual environment
+env/
+ai_image_search_env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+embeddings/
+.idea/
+data/
+models/
+
+
+
+# Environment variables
+.env
