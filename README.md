@@ -2,7 +2,6 @@
 
 An AI-powered image search engine that uses advanced Large Language Models (LLMs) to enhance search capabilities by understanding user intent with greater effectiveness.
 
-precision, FAISS for similarity search, and Streamlit for a user-friendly interface.
 
 ## 🌟 Demo
 
