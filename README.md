@@ -5,7 +5,7 @@ An AI-powered image search engine that uses advanced Large Language Models (LLMs
 
 ## 🌟 Demo
 
-Live Demo: https://www.youtube.com/watch?v=ufqe0eF5GxM
+Live Demo: https://www.youtube.com/watch?v=5Yf5CNzVpbg
 
 
 ## 🚀 Features
